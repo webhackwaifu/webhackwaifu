@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about web hacking!
 - 💞️ I’m looking to collaborate on ctfs and anything infosec related! 
 - 📫 How to reach me 
-  -  Discord: webhackwaifu#0889 
   - Twitter: [Coming soon]
   - Youtube: [Coming soon]
 
